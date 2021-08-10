@@ -1,0 +1,51 @@
+[ERROR][2021-08-09 16:06:33,529][java.lang.Class]打开浏览器出错了java.lang.NullPointerException
+[ERROR][2021-08-09 16:12:32,468][java.lang.Class]打开浏览器出错了org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 79
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-31.local', ip: 'fe80:0:0:0:40f:ea77:8d1d:f431%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_231'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: 0   chromedriver                        0x0000000107ef9e29 chromedriver + 3817001
+1   chromedriver                        0x0000000107e8df33 chromedriver + 3374899
+2   chromedriver                        0x0000000107c0e8bf chromedriver + 755903
+3   chromedriver                        0x0000000107b6edd2 chromedriver + 101842
+4   chromedriver                        0x0000000107b6ab00 chromedriver + 84736
+5   chromedriver                        0x0000000107b9a018 chromedriver + 278552
+6   chromedriver                        0x0000000107b96fa3 chromedriver + 266147
+7   chromedriver                        0x0000000107b70c0d chromedriver + 109581
+8   chromedriver                        0x0000000107b71ba5 chromedriver + 113573
+9   chromedriver                        0x0000000107ebbf6f chromedriver + 3563375
+10  chromedriver                        0x0000000107ec8e3a chromedriver + 3616314
+11  chromedriver                        0x0000000107ec8bf7 chromedriver + 3615735
+12  chromedriver                        0x0000000107e9b699 chromedriver + 3430041
+13  chromedriver                        0x0000000107ec9692 chromedriver + 3618450
+14  chromedriver                        0x0000000107eafe17 chromedriver + 3513879
+15  chromedriver                        0x0000000107edefe4 chromedriver + 3706852
+16  chromedriver                        0x0000000107efffc7 chromedriver + 3841991
+17  libsystem_pthread.dylib             0x00007fff5965a2eb _pthread_body + 126
+18  libsystem_pthread.dylib             0x00007fff5965d249 _pthread_start + 66
+19  libsystem_pthread.dylib             0x00007fff5965940d thread_start + 13
+
+[ERROR][2021-08-09 16:15:46,868][java.lang.Class]打开浏览器出错了org.openqa.selenium.SessionNotCreatedException: session not created: This version of ChromeDriver only supports Chrome version 79
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MacBook-Pro-31.local', ip: 'fe80:0:0:0:40f:ea77:8d1d:f431%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_231'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: 0   chromedriver                        0x000000010dc20e29 chromedriver + 3817001
+1   chromedriver                        0x000000010dbb4f33 chromedriver + 3374899
+2   chromedriver                        0x000000010d9358bf chromedriver + 755903
+3   chromedriver                        0x000000010d895dd2 chromedriver + 101842
+4   chromedriver                        0x000000010d891b00 chromedriver + 84736
+5   chromedriver                        0x000000010d8c1018 chromedriver + 278552
+6   chromedriver                        0x000000010d8bdfa3 chromedriver + 266147
+7   chromedriver                        0x000000010d897c0d chromedriver + 109581
+8   chromedriver                        0x000000010d898ba5 chromedriver + 113573
+9   chromedriver                        0x000000010dbe2f6f chromedriver + 3563375
+10  chromedriver                        0x000000010dbefe3a chromedriver + 3616314
+11  chromedriver                        0x000000010dbefbf7 chromedriver + 3615735
+12  chromedriver                        0x000000010dbc2699 chromedriver + 3430041
+13  chromedriver                        0x000000010dbf0692 chromedriver + 3618450
+14  chromedriver                        0x000000010dbd6e17 chromedriver + 3513879
+15  chromedriver                        0x000000010dc05fe4 chromedriver + 3706852
+16  chromedriver                        0x000000010dc26fc7 chromedriver + 3841991
+17  libsystem_pthread.dylib             0x00007fff5965a2eb _pthread_body + 126
+18  libsystem_pthread.dylib             0x00007fff5965d249 _pthread_start + 66
+19  libsystem_pthread.dylib             0x00007fff5965940d thread_start + 13
+

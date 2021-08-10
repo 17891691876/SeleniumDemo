@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="WebUI Test Suite" parallel="tests" thread-count="2">
+    <!-- 配置文件路径 -->
+    <parameter name="propertiesPath" value="src/main/resources/config/config.properties"/>
+    <!-- 测试套件 -->
+    <suite-files>
+<!--        <suite-file path="wmd.xml"/>-->
+        <suite-file path="wmd2.xml"/>
+    </suite-files>
+
+    <!-- 监听器 -->
+    <listeners>
+        <listener class-name="Listener.ExtentTestReporterListener"/>
+        <listener class-name="Listener.TestLogListener"/>
+    </listeners>
+
+</suite>

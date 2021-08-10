@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="wmd Test Suite">
+    <test name="登陆成功测试" preserve-order="true">
+        <classes>
+            <class name="Case.LoginCase">
+                <methods>
+                    <parameter name="username" value="1111"></parameter>
+                    <parameter name="password" value="111"></parameter>
+                    <include name="testLogin"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

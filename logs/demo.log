@@ -1,0 +1,157 @@
+2021-08-10 14:10:58.711 [main-32] INFO  Utils.ReadPropertiesUtil.readProperties - 读取项目配置文件
+2021-08-10 14:11:01.048 [main-15] INFO  Base.BaseDriver.startBrowser - 成功打开谷歌浏览器
+2021-08-10 14:11:01.049 [main-29] INFO  Base.BaseTest.beforeTest - 浏览器启动成功
+2021-08-10 14:11:04.068 [main-99] INFO  Listener.TestReportListener.generateReport - 开始产生 BeautifulReport 测试报告
+2021-08-10 14:11:04.112 [main-205] INFO  Listener.TestReportListener.outputResult - qqqqqqqqq/Users/wangmengdi/Downloads/SeleniumDemo/target/test-classes/report/template.html
+2021-08-10 14:15:08.778 [main-32] INFO  Utils.ReadPropertiesUtil.readProperties - 读取项目配置文件
+2021-08-10 14:15:10.265 [main-15] INFO  Base.BaseDriver.startBrowser - 成功打开谷歌浏览器
+2021-08-10 14:15:10.266 [main-29] INFO  Base.BaseTest.beforeTest - 浏览器启动成功
+2021-08-10 14:15:13.195 [main-53] INFO  Listener.ExtentTestReporterListener.generateReport - 开始产生 extentreports 测试报告
+2021-08-10 14:20:25.982 [main-32] INFO  Utils.ReadPropertiesUtil.readProperties - 读取项目配置文件
+2021-08-10 14:20:28.409 [main-15] INFO  Base.BaseDriver.startBrowser - 成功打开谷歌浏览器
+2021-08-10 14:20:28.409 [main-29] INFO  Base.BaseTest.beforeTest - 浏览器启动成功
+2021-08-10 14:20:31.733 [main-53] INFO  Listener.ExtentTestReporterListener.generateReport - 开始产生 extentreports 测试报告
+2021-08-10 14:21:51.803 [main-32] INFO  Utils.ReadPropertiesUtil.readProperties - 读取项目配置文件
+2021-08-10 14:21:53.328 [main-15] INFO  Base.BaseDriver.startBrowser - 成功打开谷歌浏览器
+2021-08-10 14:21:53.329 [main-29] INFO  Base.BaseTest.beforeTest - 浏览器启动成功
+2021-08-10 14:21:56.049 [main-53] INFO  Listener.ExtentTestReporterListener.generateReport - 开始产生 extentreports 测试报告
+2021-08-10 14:23:53.105 [main-32] INFO  Utils.ReadPropertiesUtil.readProperties - 读取项目配置文件
+2021-08-10 14:23:54.634 [main-15] INFO  Base.BaseDriver.startBrowser - 成功打开谷歌浏览器
+2021-08-10 14:23:54.634 [main-29] INFO  Base.BaseTest.beforeTest - 浏览器启动成功
+2021-08-10 14:23:57.771 [main-53] INFO  Listener.ExtentTestReporterListener.generateReport - 开始产生 extentreports 测试报告
+2021-08-10 14:33:09.231 [main-32] INFO  Utils.ReadPropertiesUtil.readProperties - 读取项目配置文件
+2021-08-10 14:33:09.242 [main-26] INFO  Listener.TestLogListener.onStart - ====================测试开始====================
+2021-08-10 14:33:11.653 [main-15] INFO  Base.BaseDriver.startBrowser - 成功打开谷歌浏览器
+2021-08-10 14:33:11.654 [main-29] INFO  Base.BaseTest.beforeTest - 浏览器启动成功
+2021-08-10 14:33:11.662 [main-37] INFO  Listener.TestLogListener.onTestStart - ========Case.LoginCase.testLogin测试开始========
+2021-08-10 14:33:14.374 [main-48] INFO  Listener.TestLogListener.onTestSuccess - ========Case.LoginCase.testLogin测试通过========
+2021-08-10 14:33:14.506 [main-83] INFO  Listener.TestLogListener.onFinish - ====================测试结束====================
+2021-08-10 14:33:14.507 [main-53] INFO  Listener.ExtentTestReporterListener.generateReport - 开始产生 extentreports 测试报告
+2021-08-10 14:34:34.148 [main-32] INFO  Utils.ReadPropertiesUtil.readProperties - 读取项目配置文件
+2021-08-10 14:34:34.154 [main-26] INFO  Listener.TestLogListener.onStart - ====================测试开始====================
+2021-08-10 14:34:35.650 [main-15] INFO  Base.BaseDriver.startBrowser - 成功打开谷歌浏览器
+2021-08-10 14:34:35.651 [main-29] INFO  Base.BaseTest.beforeTest - 浏览器启动成功
+2021-08-10 14:34:35.661 [main-37] INFO  Listener.TestLogListener.onTestStart - ========Case.LoginCase.testLogin测试开始========
+2021-08-10 14:34:47.674 [main-59] ERROR Listener.TestLogListener.onTestFailure - ========Case.LoginCase.testLogin测试失败,失败原因如下：
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //*[@id='va-cc-fed']/div/div/div/div[2]/ul/li[2] (tried for 10 second(s) with 500 milliseconds interval)========
+2021-08-10 14:34:47.675 [main-34] INFO  Utils.ScreenshotUtil.capture - 开始截图
+2021-08-10 14:34:48.203 [main-83] INFO  Listener.TestLogListener.onFinish - ====================测试结束====================
+2021-08-10 14:34:48.205 [main-53] INFO  Listener.ExtentTestReporterListener.generateReport - 开始产生 extentreports 测试报告
+2021-08-10 14:43:15.401 [main-32] INFO  Utils.ReadPropertiesUtil.readProperties - 读取项目配置文件
+2021-08-10 14:43:15.407 [main-26] INFO  Listener.TestLogListener.onStart - ====================测试开始====================
+2021-08-10 14:43:16.989 [main-15] INFO  Base.BaseDriver.startBrowser - 成功打开谷歌浏览器
+2021-08-10 14:43:16.989 [main-29] INFO  Base.BaseTest.beforeTest - 浏览器启动成功
+2021-08-10 14:43:16.999 [main-37] INFO  Listener.TestLogListener.onTestStart - ========Case.LoginCase.testLogin测试开始========
+2021-08-10 14:43:19.823 [main-48] INFO  Listener.TestLogListener.onTestSuccess - ========Case.LoginCase.testLogin测试通过========
+2021-08-10 14:43:19.908 [main-83] INFO  Listener.TestLogListener.onFinish - ====================测试结束====================
+2021-08-10 14:43:19.910 [main-53] INFO  Listener.ExtentTestReporterListener.generateReport - 开始产生 extentreports 测试报告
+2021-08-10 14:45:15.488 [main-32] INFO  Utils.ReadPropertiesUtil.readProperties - 读取项目配置文件
+2021-08-10 14:45:15.493 [main-26] INFO  Listener.TestLogListener.onStart - ====================登陆成功测试开始====================
+2021-08-10 14:45:16.927 [main-15] INFO  Base.BaseDriver.startBrowser - 成功打开谷歌浏览器
+2021-08-10 14:45:16.927 [main-29] INFO  Base.BaseTest.beforeTest - 浏览器启动成功
+2021-08-10 14:45:16.937 [main-37] INFO  Listener.TestLogListener.onTestStart - ========Case.LoginCase.testLogin测试开始========
+2021-08-10 14:45:19.437 [main-48] INFO  Listener.TestLogListener.onTestSuccess - ========Case.LoginCase.testLogin测试通过========
+2021-08-10 14:45:19.522 [main-83] INFO  Listener.TestLogListener.onFinish - ====================登陆成功测试结束====================
+2021-08-10 14:45:19.524 [main-32] INFO  Utils.ReadPropertiesUtil.readProperties - 读取项目配置文件
+2021-08-10 14:45:19.525 [main-26] INFO  Listener.TestLogListener.onStart - ====================登陆成功测试开始====================
+2021-08-10 14:45:20.407 [main-15] INFO  Base.BaseDriver.startBrowser - 成功打开谷歌浏览器
+2021-08-10 14:45:20.407 [main-29] INFO  Base.BaseTest.beforeTest - 浏览器启动成功
+2021-08-10 14:45:20.408 [main-37] INFO  Listener.TestLogListener.onTestStart - ========Case.LoginCase.testLogin测试开始========
+2021-08-10 14:45:22.894 [main-48] INFO  Listener.TestLogListener.onTestSuccess - ========Case.LoginCase.testLogin测试通过========
+2021-08-10 14:45:22.978 [main-83] INFO  Listener.TestLogListener.onFinish - ====================登陆成功测试结束====================
+2021-08-10 14:45:22.978 [main-53] INFO  Listener.ExtentTestReporterListener.generateReport - 开始产生 extentreports 测试报告
+2021-08-10 14:46:21.781 [main-32] INFO  Utils.ReadPropertiesUtil.readProperties - 读取项目配置文件
+2021-08-10 14:46:21.786 [main-26] INFO  Listener.TestLogListener.onStart - ====================登陆成功测试开始====================
+2021-08-10 14:46:23.320 [main-15] INFO  Base.BaseDriver.startBrowser - 成功打开谷歌浏览器
+2021-08-10 14:46:23.321 [main-29] INFO  Base.BaseTest.beforeTest - 浏览器启动成功
+2021-08-10 14:46:23.330 [main-37] INFO  Listener.TestLogListener.onTestStart - ========Case.LoginCase.testLogin测试开始========
+2021-08-10 14:46:25.951 [main-48] INFO  Listener.TestLogListener.onTestSuccess - ========Case.LoginCase.testLogin测试通过========
+2021-08-10 14:46:26.046 [main-83] INFO  Listener.TestLogListener.onFinish - ====================登陆成功测试结束====================
+2021-08-10 14:46:26.049 [main-32] INFO  Utils.ReadPropertiesUtil.readProperties - 读取项目配置文件
+2021-08-10 14:46:26.049 [main-26] INFO  Listener.TestLogListener.onStart - ====================登陆成功测试开始====================
+2021-08-10 14:46:26.942 [main-15] INFO  Base.BaseDriver.startBrowser - 成功打开谷歌浏览器
+2021-08-10 14:46:26.942 [main-29] INFO  Base.BaseTest.beforeTest - 浏览器启动成功
+2021-08-10 14:46:26.943 [main-37] INFO  Listener.TestLogListener.onTestStart - ========Case.LoginCase.testLogin测试开始========
+2021-08-10 14:46:29.384 [main-48] INFO  Listener.TestLogListener.onTestSuccess - ========Case.LoginCase.testLogin测试通过========
+2021-08-10 14:46:29.467 [main-83] INFO  Listener.TestLogListener.onFinish - ====================登陆成功测试结束====================
+2021-08-10 14:46:29.467 [main-53] INFO  Listener.ExtentTestReporterListener.generateReport - 开始产生 extentreports 测试报告
+2021-08-10 15:29:19.893 [main-32] INFO  Utils.ReadPropertiesUtil.readProperties - 读取项目配置文件
+2021-08-10 15:29:19.899 [main-26] INFO  Listener.TestLogListener.onStart - ====================登陆成功测试开始====================
+2021-08-10 15:29:22.095 [main-15] INFO  Base.BaseDriver.startBrowser - 成功打开谷歌浏览器
+2021-08-10 15:29:22.096 [main-29] INFO  Base.BaseTest.beforeTest - 浏览器启动成功
+2021-08-10 15:29:22.106 [main-59] ERROR Listener.TestLogListener.onTestFailure - ========Case.LoginCase.testLoginFail测试失败,失败原因如下：
+org.testng.TestNGException: 
+Cannot inject @Test annotated Method [testLoginFail] with [class java.lang.String, class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection========
+2021-08-10 15:29:22.108 [main-34] INFO  Utils.ScreenshotUtil.capture - 开始截图
+2021-08-10 15:29:22.476 [main-83] INFO  Listener.TestLogListener.onFinish - ====================登陆成功测试结束====================
+2021-08-10 15:29:22.479 [main-32] INFO  Utils.ReadPropertiesUtil.readProperties - 读取项目配置文件
+2021-08-10 15:29:22.479 [main-26] INFO  Listener.TestLogListener.onStart - ====================登陆成功测试开始====================
+2021-08-10 15:29:23.406 [main-15] INFO  Base.BaseDriver.startBrowser - 成功打开谷歌浏览器
+2021-08-10 15:29:23.406 [main-29] INFO  Base.BaseTest.beforeTest - 浏览器启动成功
+2021-08-10 15:29:23.413 [main-37] INFO  Listener.TestLogListener.onTestStart - ========Case.LoginCase.testLogin测试开始========
+2021-08-10 15:29:26.353 [main-48] INFO  Listener.TestLogListener.onTestSuccess - ========Case.LoginCase.testLogin测试通过========
+2021-08-10 15:29:26.354 [main-59] ERROR Listener.TestLogListener.onTestFailure - ========Case.LoginCase.testLoginFail测试失败,失败原因如下：
+org.testng.TestNGException: 
+Cannot inject @Test annotated Method [testLoginFail] with [class java.lang.String, class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection========
+2021-08-10 15:29:26.354 [main-34] INFO  Utils.ScreenshotUtil.capture - 开始截图
+2021-08-10 15:29:26.801 [main-83] INFO  Listener.TestLogListener.onFinish - ====================登陆成功测试结束====================
+2021-08-10 15:29:26.801 [main-53] INFO  Listener.ExtentTestReporterListener.generateReport - 开始产生 extentreports 测试报告
+2021-08-10 15:33:04.185 [main-32] INFO  Utils.ReadPropertiesUtil.readProperties - 读取项目配置文件
+2021-08-10 15:33:04.190 [main-26] INFO  Listener.TestLogListener.onStart - ====================登陆成功测试开始====================
+2021-08-10 15:33:05.814 [main-15] INFO  Base.BaseDriver.startBrowser - 成功打开谷歌浏览器
+2021-08-10 15:33:05.814 [main-29] INFO  Base.BaseTest.beforeTest - 浏览器启动成功
+2021-08-10 15:33:05.824 [main-59] ERROR Listener.TestLogListener.onTestFailure - ========Case.LoginCase.testLoginFail测试失败,失败原因如下：
+org.testng.TestNGException: 
+Cannot inject @Test annotated Method [testLoginFail] with [class java.lang.String, class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection========
+2021-08-10 15:33:05.826 [main-34] INFO  Utils.ScreenshotUtil.capture - 开始截图
+2021-08-10 15:33:06.165 [main-83] INFO  Listener.TestLogListener.onFinish - ====================登陆成功测试结束====================
+2021-08-10 15:33:06.168 [main-32] INFO  Utils.ReadPropertiesUtil.readProperties - 读取项目配置文件
+2021-08-10 15:33:06.169 [main-26] INFO  Listener.TestLogListener.onStart - ====================登陆成功测试开始====================
+2021-08-10 15:33:07.197 [main-15] INFO  Base.BaseDriver.startBrowser - 成功打开谷歌浏览器
+2021-08-10 15:33:07.198 [main-29] INFO  Base.BaseTest.beforeTest - 浏览器启动成功
+2021-08-10 15:33:07.207 [main-37] INFO  Listener.TestLogListener.onTestStart - ========Case.LoginCase.testLogin测试开始========
+2021-08-10 15:33:09.864 [main-48] INFO  Listener.TestLogListener.onTestSuccess - ========Case.LoginCase.testLogin测试通过========
+2021-08-10 15:33:09.948 [main-83] INFO  Listener.TestLogListener.onFinish - ====================登陆成功测试结束====================
+2021-08-10 15:33:09.949 [main-53] INFO  Listener.ExtentTestReporterListener.generateReport - 开始产生 extentreports 测试报告
+2021-08-10 15:35:18.244 [main-32] INFO  Utils.ReadPropertiesUtil.readProperties - 读取项目配置文件
+2021-08-10 15:35:18.252 [main-26] INFO  Listener.TestLogListener.onStart - ====================登陆成功测试开始====================
+2021-08-10 15:35:19.916 [main-15] INFO  Base.BaseDriver.startBrowser - 成功打开谷歌浏览器
+2021-08-10 15:35:19.917 [main-29] INFO  Base.BaseTest.beforeTest - 浏览器启动成功
+2021-08-10 15:35:19.926 [main-37] INFO  Listener.TestLogListener.onTestStart - ========Case.LoginCase.testLogin测试开始========
+2021-08-10 15:35:22.626 [main-48] INFO  Listener.TestLogListener.onTestSuccess - ========Case.LoginCase.testLogin测试通过========
+2021-08-10 15:35:22.710 [main-83] INFO  Listener.TestLogListener.onFinish - ====================登陆成功测试结束====================
+2021-08-10 15:35:22.712 [main-26] INFO  Listener.TestLogListener.onStart - ====================登陆失败测试开始====================
+2021-08-10 15:35:23.617 [main-15] INFO  Base.BaseDriver.startBrowser - 成功打开谷歌浏览器
+2021-08-10 15:35:23.617 [main-29] INFO  Base.BaseTest.beforeTest - 浏览器启动成功
+2021-08-10 15:35:23.620 [main-59] ERROR Listener.TestLogListener.onTestFailure - ========Case.LoginCase.testLoginFail测试失败,失败原因如下：
+org.testng.TestNGException: 
+Cannot inject @Test annotated Method [testLoginFail] with [class java.lang.String, class java.lang.String].
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection========
+2021-08-10 15:35:23.621 [main-34] INFO  Utils.ScreenshotUtil.capture - 开始截图
+2021-08-10 15:35:23.974 [main-83] INFO  Listener.TestLogListener.onFinish - ====================登陆失败测试结束====================
+2021-08-10 15:35:23.976 [main-53] INFO  Listener.ExtentTestReporterListener.generateReport - 开始产生 extentreports 测试报告
+2021-08-10 15:37:22.926 [main-32] INFO  Utils.ReadPropertiesUtil.readProperties - 读取项目配置文件
+2021-08-10 15:37:22.935 [main-26] INFO  Listener.TestLogListener.onStart - ====================登陆成功测试开始====================
+2021-08-10 15:37:24.945 [main-15] INFO  Base.BaseDriver.startBrowser - 成功打开谷歌浏览器
+2021-08-10 15:37:24.946 [main-29] INFO  Base.BaseTest.beforeTest - 浏览器启动成功
+2021-08-10 15:37:24.962 [main-37] INFO  Listener.TestLogListener.onTestStart - ========Case.LoginCase.testLogin测试开始========
+2021-08-10 15:37:27.647 [main-48] INFO  Listener.TestLogListener.onTestSuccess - ========Case.LoginCase.testLogin测试通过========
+2021-08-10 15:37:27.732 [main-83] INFO  Listener.TestLogListener.onFinish - ====================登陆成功测试结束====================
+2021-08-10 15:37:27.733 [main-26] INFO  Listener.TestLogListener.onStart - ====================登陆失败测试开始====================
+2021-08-10 15:37:28.648 [main-15] INFO  Base.BaseDriver.startBrowser - 成功打开谷歌浏览器
+2021-08-10 15:37:28.648 [main-29] INFO  Base.BaseTest.beforeTest - 浏览器启动成功
+2021-08-10 15:37:28.649 [main-37] INFO  Listener.TestLogListener.onTestStart - ========Case.LoginCase.testLoginFail测试开始========
+2021-08-10 15:37:30.247 [main-48] INFO  Listener.TestLogListener.onTestSuccess - ========Case.LoginCase.testLoginFail测试通过========
+2021-08-10 15:37:30.328 [main-83] INFO  Listener.TestLogListener.onFinish - ====================登陆失败测试结束====================
+2021-08-10 15:37:30.331 [main-53] INFO  Listener.ExtentTestReporterListener.generateReport - 开始产生 extentreports 测试报告
+2021-08-10 15:39:07.167 [main-32] INFO  Utils.ReadPropertiesUtil.readProperties - 读取项目配置文件
+2021-08-10 15:39:07.173 [main-26] INFO  Listener.TestLogListener.onStart - ====================登陆成功测试开始====================
+2021-08-10 15:39:08.883 [main-15] INFO  Base.BaseDriver.startBrowser - 成功打开谷歌浏览器
+2021-08-10 15:39:08.883 [main-29] INFO  Base.BaseTest.beforeTest - 浏览器启动成功
+2021-08-10 15:39:08.892 [main-37] INFO  Listener.TestLogListener.onTestStart - ========Case.LoginCase.testLoginFail测试开始========
+2021-08-10 15:39:10.616 [main-48] INFO  Listener.TestLogListener.onTestSuccess - ========Case.LoginCase.testLoginFail测试通过========
+2021-08-10 15:39:10.703 [main-83] INFO  Listener.TestLogListener.onFinish - ====================登陆成功测试结束====================
+2021-08-10 15:39:10.706 [main-53] INFO  Listener.ExtentTestReporterListener.generateReport - 开始产生 extentreports 测试报告
