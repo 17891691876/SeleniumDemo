@@ -28,4 +28,9 @@ public class LoginCase extends BaseTest {
         loginPage.findElement(loginPage.Password);
     }
 
+    @Test(description = "测试图片对比")
+    public void testCompare(){
+
+    }
+
 }
